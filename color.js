@@ -1,5 +1,5 @@
-draw = funtion() { 
-	if (mouseIsClicked) { 
-		background((random(255), random(255), random(255) 
-	} 
-};
+<script>
+if (mousePressed) {
+    fill(random(255), random(255), random(255));
+}
+</script>
