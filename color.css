@@ -1,1 +1,5 @@
-<link rel="stylesheet" type="text/css" href="externalstylesheet.html">
+<script>
+if (mousePressed) {
+    background-color:(random(255), random(255), random(255));
+}
+</script>
